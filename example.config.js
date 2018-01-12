@@ -16,13 +16,13 @@ module.exports = {
 	 * the person who can promote and demote admins,
 	 * and add the bot to groups.
 	 */
-	master: 425804335,
+	master: ,
 
 	/**
 	 * @type {!string}
 	 * Telegram Bot token obtained from https://t.me/BotFather.
 	 */
-	token: '456443185:AAGK2KceJSAyzyJ78mIpwcIOH4k20lldSxk',
+	token: '',
 
 
 	/**
